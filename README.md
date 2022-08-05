@@ -1,70 +1,17 @@
-# Getting Started with Create React App
+<h1>React Responsive Gym Website</h1>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<p>In this Reactjs project, I'm going to make a great responsive gym website step by step. We're learning about React hooks, modern CSS, frame movement, and more. I will use Email js library to make this site more functional and practical for communication.</p>
 
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<br><br>
+🌎 Find Me Here:<br>
+https://www.aktyazilim.com/<br>
+Gmail : aktasmuratt7@gmail.com<br>
+Instagram: @maktas7<br>
+Linkedin: https://www.linkedin.com/in/murataktaş/<br>
+<br>
+<img width="1664" alt="Ekran Resmi 2022-08-05 17 00 27" src="https://user-images.githubusercontent.com/58546835/183092923-4945a3e6-9e5e-42aa-9ef5-a62d6e4b7258.png">
+<img width="1655" alt="Ekran Resmi 2022-08-05 16 55 34" src="https://user-images.githubusercontent.com/58546835/183092947-29d6ed11-f067-4d25-ad46-05b1a684e448.png">
+<img width="1640" alt="Ekran Resmi 2022-08-05 16 55 47" src="https://user-images.githubusercontent.com/58546835/183092968-5b2cd03e-e746-45d4-8f53-c2be36fa68dc.png">
+<img width="1647" alt="Ekran Resmi 2022-08-05 16 55 58" src="https://user-images.githubusercontent.com/58546835/183092975-b3068deb-71bb-4c0e-bab1-bd46c4376884.png">
+<img width="1663" alt="Ekran Resmi 2022-08-05 16 56 11" src="https://user-images.githubusercontent.com/58546835/183092996-289f6480-0a92-4062-9c6e-1080702cc57c.png">
+<img width="1663" alt="Ekran Resmi 2022-08-05 16 56 23" src="https://user-images.githubusercontent.com/58546835/183092999-cf809c84-256f-4c30-87af-2ac9a6021a10.png">
